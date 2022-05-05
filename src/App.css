@@ -1,0 +1,427 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar {
+  background-color: #fafafa;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.navbar-light .navbar-nav .nav-link {
+  font-size: 1.2rem;
+  color: #0f9d58;
+  font-family: "Montserrat", sans-serif;
+  text-transform: uppercase;
+}
+
+.logo {
+  width: 340px;
+  height: 340px;
+}
+.content-wrapper img {
+  width: 100vw;
+  height: 100vh;
+}
+.content-text {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.7rem;
+  color: #004963;
+}
+.about-text {
+  font-size: 3rem;
+  font-family: "Montserrat", sans-serif;
+  color: white;
+  text-transform: uppercase;
+  width: 100%;
+  height: auto;
+  background-image: url("./Asset/background.jpg");
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 10px;
+}
+
+footer .navbar-brand {
+  font-family: "Montserrat", sans-serif;
+  color: #0f9d58;
+}
+.container-bg {
+  background-color: #fafafa;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  height: auto;
+  width: auto;
+  border-radius: 10px;
+}
+.login-image {
+  width: 45vw;
+  height: auto;
+  border-radius: 10px;
+  margin-right: 5px;
+}
+.form-label {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1rem;
+  color: #0f9d58;
+}
+.form-control {
+  font-size: 1rem;
+  font-family: "Montserrat", sans-serif;
+  color: #004963;
+}
+.btn-primary {
+  font-size: 1rem;
+  font-family: "Montserrat", sans-serif;
+  background-color: #0f9d58;
+  border-color: #0f9d58;
+}
+.loanscreen-bg {
+  background-color: #f5f5f5;
+}
+.loan-title {
+  text-transform: uppercase;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  color: #0f9d58;
+}
+.loan-month {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #004963;
+  font-family: "Poppins", sans-serif;
+}
+.loan-desc {
+  font-size: 1.4rem;
+  font-family: "Poppins", sans-serif;
+  font-weight: lighter;
+  color: #2f3c4b;
+}
+.filter-heading {
+  font-size: 1.3rem;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #2f3c4b;
+  font-family: "Montserrat", sans-serif;
+}
+.filter-credit {
+  font-size: 1rem;
+  font-family: "Montserrat", sans-serif;
+  text-transform: uppercase;
+  color: #aec0ce;
+}
+.btn-secondary {
+  background-color: #fafafa;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  color: #0f9d58;
+  width: 150px;
+}
+.dropdown .btn {
+  font-size: 1.3rem;
+}
+.btn-check:focus + .btn-secondary,
+.btn-secondary:focus {
+  background-color: #fafafa;
+  color: #0f9d58;
+}
+.company-image {
+  height: 100%;
+  width: 100%;
+}
+.loan-rating {
+  font-family: "Montserrat", sans-serif;
+  font-size: 3rem;
+  font-weight: normal;
+}
+.loan-features,
+.loan-amount {
+  font-size: 1rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: normal;
+}
+.section-border {
+  border: 2px solid #efeeee;
+}
+footer {
+  position: fixed;
+}
+
+.sign-up {
+  width: 300px;
+}
+.sign-page {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 10px;
+  width: 70vw;
+  height: auto;
+}
+.login-page {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 10px;
+  width: auto;
+  height: auto;
+}
+.forgot-link {
+  text-decoration: none;
+  font-family: "Montserrat", sans-serif;
+  color: #2f3c4b;
+}
+.banner {
+  border-radius: 10px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.about-para {
+  font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+    color: white;
+    font-weight: 600;
+    text-shadow: 0px 1px #fff;
+}
+.para1 {
+  font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+    color: white;
+    font-weight: 600;
+    text-shadow: 0px 1px #fff;
+}
+.banner-text {
+  font-size: 2rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  color: #0f9d58;
+}
+.banner-subtext {
+  font-size: 1.3rem;
+  color: #57bfc8;
+}
+.banner-para {
+  font-size: 1.8rem;
+  font-family: "Montserrat", sans-serif;
+  color: #0f9d58;
+}
+.vision-title {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2rem;
+  text-transform: uppercase;
+  color: #0f9d58;
+  font-weight: bold;
+}
+.vision-para {
+  font-family: "Montserrat", sans-serif;
+  color: #57bfc8;
+  font-size: 1.3rem;
+}
+.vision-image {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 10px;
+}
+.section-bg {
+  background-color: #0f9d58d0;
+  width: auto;
+  height: auto;
+  border-radius: 10px;
+}
+.delivery-image {
+  width: 50vh;
+}
+.delivery-title {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2rem;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.delivery-para {
+  font-family: "Montserrat", sans-serif;
+  color: white;
+  font-size: 1.2rem;
+}
+.purpose-title {
+  font-size: 2rem;
+  font-family: "Montserrat", sans-serif;
+  color: #0f9d58;
+  text-transform: uppercase;
+}
+.doing-image {
+  width: 400px;
+}
+.purpose-para {
+  font-size: 2rem;
+  color: #57bfc9;
+  font-family: "Montserrat", sans-serif;
+}
+.about1 .purpose-para {
+  color: #0f9d58;
+}
+@media (min-width: 992px) {
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+}
+@media screen and (min-width: 786px) and (max-width: 992px) {
+  .banner {
+    width: 90vw;
+    height: 90vh;
+  }
+  footer .nav-link {
+    display: none;
+  }
+  footer .navbar-brand {
+    display: flex;
+    justify-content: center;
+  }
+  .login-image {
+    width: 95vw;
+  }
+  .loan-rating {
+    font-size: 2rem;
+  }
+  .loan-features,
+  .loan-amount {
+    font-size: 0.9rem;
+  }
+  .banner-text {
+    font-size: 1rem;
+    text-align: center;
+  }
+  .banner-subtext {
+    font-size: 0.8rem;
+  }
+  .banner-para {
+    font-size: 1.2rem;
+  }
+  .logo {
+    width: 300px;
+    height: 300px;
+  }
+  .vision-title {
+    font-size: 1.5rem;
+  }
+  .vision-para {
+    font-size: 1rem;
+  }
+  .delivery-title {
+    font-size: 1.1rem;
+  }
+  .delivery-para {
+    font-family: "Montserrat", sans-serif;
+    color: white;
+    font-size: 1rem;
+  }
+}
+@media screen and (min-width: 576px) and (max-width: 786px) {
+  .banner {
+    width: 90vw;
+    height: 50vh;
+  }
+  footer .nav-link {
+    display: none;
+  }
+  footer .navbar-brand {
+    display: flex;
+    justify-content: center;
+  }
+  .login-image {
+    width: 95vw;
+    height: 50vh;
+  }
+  .loan-features,
+  .loan-amount {
+    font-size: 0.7rem;
+  }
+  .banner-text {
+    font-size: 1rem;
+    text-align: center;
+  }
+  .banner-subtext {
+    font-size: 0.8rem;
+  }
+  .banner-para {
+    font-size: 1.2rem;
+  }
+  .vision-title {
+    font-size: 1.5rem;
+  }
+  .vision-para {
+    font-size: 1rem;
+  }
+  .delivery-title {
+    font-size: 1.1rem;
+  }
+  .delivery-para {
+    font-family: "Montserrat", sans-serif;
+    color: white;
+    font-size: 1rem;
+  }
+  .purpose-title {
+    font-size: 1.8rem;
+  }
+  .doing-image {
+    width: 400px;
+  }
+  .purpose-para {
+    font-size: 1.5rem;
+  }
+}
+@media screen and (max-width: 576px) {
+  .banner {
+    width: 90vw;
+    height: 50vh;
+  }
+  footer .nav-link {
+    display: none;
+  }
+  footer .navbar-brand {
+    display: flex;
+    justify-content: center;
+  }
+  .login-image {
+    width: 93vw;
+    height: 50vh;
+  }
+  .loan-rating {
+    font-size: 1rem;
+  }
+  .loan-features,
+  .loan-amount {
+    font-size: 0.5rem;
+  }
+  .banner-title {
+    font-size: 1rem;
+  }
+  .banner-quote {
+    font-size: 0.7rem;
+  }
+  .delivery-title {
+    font-size: 1.1rem;
+  }
+  .delivery-para {
+    font-family: "Montserrat", sans-serif;
+    color: white;
+    font-size: 1rem;
+  }
+  .banner-text {
+    font-size: 1rem;
+    text-align: center;
+  }
+  .banner-subtext {
+    font-size: 0.8rem;
+  }
+  .banner-para {
+    font-size: 1.2rem;
+  }
+  .vision-title {
+    font-size: 1.5rem;
+  }
+  .vision-para {
+    font-size: 1rem;
+  }
+  .purpose-title {
+    font-size: 1.8rem;
+  }
+  .doing-image {
+    width: 300px;
+  }
+  .purpose-para {
+    font-size: 1.5rem;
+  }
+}
