@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/glasw-frontend/static/css/main.0d5eb208.css",
+    "main.js": "/glasw-frontend/static/js/main.f3e0b99b.js",
+    "static/js/787.12a9364c.chunk.js": "/glasw-frontend/static/js/787.12a9364c.chunk.js",
+    "static/media/delivery.png": "/glasw-frontend/static/media/delivery.97996464829e9568a2ff.png",
+    "static/media/doing.png": "/glasw-frontend/static/media/doing.35f63bb624613316d2b8.png",
+    "static/media/background.jpg": "/glasw-frontend/static/media/background.4d04e997e90896d19882.jpg",
+    "static/media/login.jpg": "/glasw-frontend/static/media/login.8df176bec0bc29b38dc3.jpg",
+    "static/media/vision.jpg": "/glasw-frontend/static/media/vision.df89dd4bc73dc22d5599.jpg",
+    "static/media/logo.png": "/glasw-frontend/static/media/logo.6d37a3f58e21d67b0aed.png",
+    "static/media/fundera.webp": "/glasw-frontend/static/media/fundera.a68a88b5bef1a705bc57.webp",
+    "static/media/fora.webp": "/glasw-frontend/static/media/fora.079037a9503ca2fc9b71.webp",
+    "static/media/biz2credit.webp": "/glasw-frontend/static/media/biz2credit.0bcf5939a82a5fafb736.webp",
+    "static/media/fundit.webp": "/glasw-frontend/static/media/fundit.44c96386bf7a689a61b7.webp",
+    "static/media/ufg.webp": "/glasw-frontend/static/media/ufg.5562e9ec0c4c28f6486d.webp",
+    "index.html": "/glasw-frontend/index.html",
+    "main.0d5eb208.css.map": "/glasw-frontend/static/css/main.0d5eb208.css.map",
+    "main.f3e0b99b.js.map": "/glasw-frontend/static/js/main.f3e0b99b.js.map",
+    "787.12a9364c.chunk.js.map": "/glasw-frontend/static/js/787.12a9364c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d5eb208.css",
+    "static/js/main.f3e0b99b.js"
+  ]
+}
